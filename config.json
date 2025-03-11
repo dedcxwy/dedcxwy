@@ -1,6 +1,6 @@
 {
     "Button1": false,
     "Button2": false,
-    "Button3": true,
+    "Button3": false,
     "Button4":false
 }
